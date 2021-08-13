@@ -11,3 +11,9 @@ Striver's code in cpp: https://github.com/striver79/SDESheet/blob/main/sort012Cp
 
 Striver's code in java: https://github.com/striver79/SDESheet/blob/main/sort012Java
 */
+
+#include<iostream>
+void main()
+{
+    cout<<"JetBrains";
+}
